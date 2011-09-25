@@ -44,4 +44,16 @@ TECHDEBT
  * abstract credits   list into re-usable Game.Credits class
  * abstract highscore list into re-usable Game.Leaderboard class
 
+License
+=======
+
+[MIT](http://en.wikipedia.org/wiki/MIT_License) license.
+
+>> NOTE: the graphics and sounds included in this project are royalty free resources paid
+for and licensed from [iStockPhoto](http://istockphoto.com), [Lucky Lion Studios](http://luckylionstudios.com/) and
+[Premium Beat](http://www.premiumbeat.com/). They are licensed ONLY for use in this project
+and should not be reproduced.
+
+Thanks for your honesty!
+
 
