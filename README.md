@@ -1,6 +1,12 @@
 Javascript Snakes
 =================
 
+An HTML5 Snakes Game
+
+ * play the game (coming soon)
+ * read a blog article (coming soon)
+ * view the [source](https://github.com/jakesgordon/javascript-snakes)
+
 SUPPORTED BROWSERS
 ==================
 
@@ -8,11 +14,11 @@ SUPPORTED BROWSERS
  - Firefox 5/6
  - IE 9
  - Safari 5
+ - Opera 11
 
 KNOWN ISSUES
 ============
 
- - Opera never finishes 'loading...'
  - No sound FX in Safari because of delay when playing <audio> elements
  - Opera ignores <audio> volume and plays music/sounds very loud
 
