@@ -73,6 +73,7 @@ body {
 #credits    { position: absolute; width: 100%; }
 #logo       { position: absolute; top: 1em; }
 #stats      { position: absolute; right: -90px; bottom: 0; }
+#help       { position: absolute; width: 100%; bottom: -1.5em; font-style: italic; }
 
 #sound     { width: 32px; height: 32px; background: url(images/mute.png); display: inline-block; cursor: pointer; position: absolute; left: -40px; }
 #sound.on  { background-position:   0   0; }

@@ -82,10 +82,10 @@ Game = {
     },
 
     drawStats: function(ctx) {
-      if (this.cfg.stats) {
-        ctx.fillText("update: " + Math.round(this.stats.extra.update) + "ms", this.width - 100, this.height - 40);
-        ctx.fillText("draw: "   + Math.round(this.stats.extra.draw)   + "ms", this.width - 100, this.height - 30);
-      }
+      // if (this.cfg.stats) {
+      //   ctx.fillText("update: " + Math.round(this.stats.extra.update) + "ms", this.width - 100, this.height - 40);
+      //   ctx.fillText("draw: "   + Math.round(this.stats.extra.draw)   + "ms", this.width - 100, this.height - 30);
+      // }
     },
 
     addEvents: function() {
