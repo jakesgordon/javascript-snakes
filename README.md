@@ -3,8 +3,8 @@ Javascript Snakes
 
 An HTML5 Snakes Game
 
- * play the game (coming soon)
- * read a blog article (coming soon)
+ * [play the game](http://codeincomplete.com/projects/snakes/)
+ * read a [blog article](http://codeincomplete.com/posts/2011/9/25/javascript_snakes/)
  * view the [source](https://github.com/jakesgordon/javascript-snakes)
 
 SUPPORTED BROWSERS
