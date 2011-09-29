@@ -1,0 +1,14 @@
+{
+  "name": "Snakes",
+  "description": "Eat the food, grow as long as you can and dont crash!",
+  "version": "1.0",
+  "app": {
+    "launch": {
+      "local_path": "snakes.html"
+    }
+  },
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  }
+}
