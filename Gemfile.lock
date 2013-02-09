@@ -2,11 +2,11 @@ GEM
   remote: http://rubygems.org/
   specs:
     chunky_png (1.2.1)
-    daemons (1.1.4)
-    eventmachine (0.12.10)
-    rack (1.3.2)
+    daemons (1.1.9)
+    eventmachine (1.0.0)
+    rack (1.5.2)
     sprite-factory (1.4.1)
-    thin (1.2.11)
+    thin (1.5.0)
       daemons (>= 1.0.9)
       eventmachine (>= 0.12.6)
       rack (>= 1.0.0)
@@ -16,6 +16,6 @@ PLATFORMS
 
 DEPENDENCIES
   chunky_png (= 1.2.1)
-  rack (= 1.3.2)
+  rack (= 1.5.2)
   sprite-factory (= 1.4.1)
-  thin (= 1.2.11)
+  thin (= 1.5.0)
