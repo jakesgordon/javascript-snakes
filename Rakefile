@@ -1,8 +1,7 @@
-$LOAD_PATH << File.join('vendor', 'unified_assets', 'lib')
 require 'bundler/setup'
-require 'tasks/unified_assets'
+require 'unified_assets/tasks'
 
-UnifiedAssets::Task.new do |t|
+UnifiedAssets::Tasks.new do |t|
   t.minify = true
   t.assets = {
     "snakes.js"  => [
