@@ -25,7 +25,7 @@ KNOWN ISSUES
 DEVELOPMENT
 ===========
 
->> _for all of the gory details checkout the blog article (coming soon)_
+>> _for all of the gory details checkout the blog article: http://codeincomplete.com/posts/snakes-technical-details/_
 
 The game is split into multiple source files (.js, .css and .png) that must be
 unified (and minified) for the final run-time game:
