@@ -51,6 +51,19 @@ underlying source files:
 
     rake assets:server   # run a simple Rack server that autogenerates unified assets files automatically on change
 
+Dockerized
+==========
+## To play this amazing game
+### Directly from Docker 
+- Run the below command in terminal
+```
+docker run -it --rm --init -p 31:3000 siddiquesa/dockergames:gamesnake
+```
+then browse to  _**`http://localhost:31`**_
+
+### Or using source codes 
+[check here](https://github.com/siddique-sa/Docker_Games/tree/main/Snake)
+
 TODO
 ====
 
