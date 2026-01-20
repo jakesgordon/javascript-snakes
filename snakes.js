@@ -264,7 +264,7 @@ Sizzle.filter = function( expr, set, inplace, not ) {
 				}
 
 				if ( curLoop === result ) {
-					result = [];
+					result = [];  
 				}
 
 				if ( Expr.preFilter[ type ] ) {
@@ -3976,8 +3976,8 @@ Snakes = function() {
                         spark.image * cfg.fruit.size, 0, cfg.fruit.size, cfg.fruit.size,
                         (spark.pos.x-1) * this.game.dw,
                         (spark.pos.y-1) * this.game.dh,
-                        this.game.dw * 3,
-                        this.game.dh * 3);
+                        this.game.dw * 2,
+                        this.game.dh * 2);
         }
       } 
 
@@ -3989,8 +3989,8 @@ Snakes = function() {
                     this.game.fruit.image * cfg.fruit.size, 0, cfg.fruit.size, cfg.fruit.size,
                     (this.game.fruit.pos.x-1) * this.game.dw,
                     (this.game.fruit.pos.y-1) * this.game.dh,
-                    this.game.dw * 3,
-                    this.game.dh * 3);
+                    this.game.dw * 2,
+                    this.game.dh * 2);
 
       // walls
       for(n = 0, max = this.game.court.walls.length ; n < max ; n++)
