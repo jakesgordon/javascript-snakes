@@ -9,6 +9,6 @@ end
 # for running rake assets:server
 group :server do
   gem "unified-assets", "0.0.1"
-  gem "rack",           "1.5.2"
+  gem "rack",           "2.1.4"
   gem "thin",           "1.5.0"
 end
